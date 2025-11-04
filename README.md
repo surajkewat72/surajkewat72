@@ -1,5 +1,5 @@
-<p>
-<h1 align="center">Hi 👋, I'm Suraj Kewat</h1>
+<!-- <p>
+<h1 align="center">Hi 👋, I'm Suraj Kewat</h1> -->
 
 
 
@@ -7,10 +7,15 @@
   <img src="https://raw.githubusercontent.com/surajkewat72/surajkewat72/main/1.png" alt="Suraj Kewat Banner" width="100%">
 </p>
 
-<!-- <h3 align="center">Full Stack developer from India</h3>
-</p> -->
-<!-- <h3 align="left">Connect with me:</h3> -->
+<!-- <h3 align="center">
+I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱, ML Engineer 🤖 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</h3> -->
 
+<p align="center">
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;AI/ML%20Enthusiast;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
+</a>
+
+</p>
 
 <br>
 <br>
