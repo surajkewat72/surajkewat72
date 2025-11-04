@@ -59,9 +59,9 @@
 <h1 align="center">⚓️ Connect with me:</h1>
 <p align="center">
 <a href="https://linkedin.com/in/surajkewat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="surajkewat" height="30" width="40" /></a></p>
-<p align="center">
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/surajkewrxln/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/surajkewrxln/" height="30" width="40" /></a>
-</p>
+<!-- <p align="center">
+<a href="https://www.geeksforgeeks.org/user/surajkewrxln/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/surajkewrxln/" height="30" width="40" /></a>
+</p> -->
 
 
 
