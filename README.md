@@ -24,7 +24,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 
 <!-- 💻 Tech Stack -->
-<h2 align="center">💻 Tech Stack:</h2>
+<h2 align="center"> Tech Stack </h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
@@ -60,8 +60,15 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <br>
 <hr/>
 
+<h1 align="center">Hacktoberfest 2025</h1>
 
-<h1 align="center">⚓️ Connect with me:</h1>
+[![An image of @surajkewat72's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/surajkewat72)](https://holopin.io/@surajkewat72)
+
+<br>
+<br>
+<hr/>
+
+<h1 align="center">Connect with me</h1>
 <p align="center">
 <a href="https://linkedin.com/in/surajkewat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="surajkewat" height="30" width="40" /></a></p>
 <!-- <p align="center">
@@ -74,7 +81,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <hr>
 
 <!-- 📊 GitHub Stats -->
-<h2 align="center">📊 GitHub Stats:</h2>
+<h2 align="center">GitHub Stats:</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=surajkewat72&theme=aura&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"><br>
   <br>
@@ -89,7 +96,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <hr/>
 
 <!-- 🏆 GitHub Trophies -->
-<h2 align="center">🏆 GitHub Trophies</h2>
+<h2 align="center">GitHub Trophies</h2>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=surajkewat72&theme=aura&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies">
 </p>
