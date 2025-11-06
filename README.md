@@ -11,9 +11,11 @@
 I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱, ML Engineer 🤖 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</h3> -->
 
 <p align="center">
-<a href="https://github.com/DenverCoder1/readme-typing-svg">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3000&pause=200&color=A39E9E&center=true&width=500&lines=%F0%9F%91%8BHi+%2C+I'm+Suraj+Kewat+;Full+Stack+Developer+%7C+AI+%26+ML+Enthusiast+" alt="Typing SVG" /></a>
+  
+<!-- <a href="https://github.com/DenverCoder1/readme-typing-svg">
   <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;AI/ML%20Enthusiast;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
-</a>
+</a> -->
 
 </p>
 
