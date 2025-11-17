@@ -61,13 +61,13 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <br>
 <hr/>
 
-<h1 align="center">Hacktoberfest 2025</h1>
+<!-- <h1 align="center">Hacktoberfest 2025</h1> -->
 
-[![An image of @surajkewat72's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/surajkewat72)](https://holopin.io/@surajkewat72)
+<!--[![An image of @surajkewat72's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/surajkewat72)](https://holopin.io/@surajkewat72)
 
-<br>
-<br>
-<hr/>
+<!-- <br> -->
+<!-- <br> -->
+<!-- <hr/> -->
 
 <h1 align="center">Connect with me</h1>
 <p align="center">
